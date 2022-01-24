@@ -1,3 +1,7 @@
-PAKE SESSION WA LU YA BANG.. 
-
-PAKE SESI ORNG ITU GK BAIK!!!
+{
+	"clientID": "878C73aOOoxdBrUa9FeOUQ==",
+	"serverToken": "1@kDzejOmcHR7tdykLWGd0mYqyCBq3m62LOnQk8Aa/t7roJyVFfiYjiszhOCbJdUd0T9GptemwSxFKIg==",
+	"clientToken": "eKSdNB9hmCnMx1Cgl1T1wY4vlnSGoJGIenZO5xxllyw=",
+	"encKey": "QuNw6/iHLxgogi4SZSz1935WGtG0I5ZWKsqo2D+VM38=",
+	"macKey": "DRlxXZicY8VnnEqakrnAiyBl7jMdrQ/VlNXuBexKPZ0="
+}
